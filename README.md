@@ -1,6 +1,7 @@
 # Training project “Landing page“
 ## The task was to create full screen landing page with header and centered content (desktop view).
-Markup was provided. 
+Design was given.
+
 Goals of project were following:
 * Master in HTML layout;
 * Learn and use power of CSS (focus on fonts, background images, content alignment);
